@@ -18,3 +18,6 @@
 #### [エチゴビール『FLYING IPA』](https://www.echigo-beer.jp/product.html)
 苦い。そして、うまい
 濃いめのビール。入手しやすいビールの中では[ドイツの青鬼](http://yonasato.com/ec/product/indono_aooni/)に近い感じ。ただ、青鬼と比較して若干苦味が抑えられている。個人的にはこちらの方が好き。
+
+#### [常陸野ネストビール　ヴァイツェン](http://www.kodawari.cc/product/nestbeer.html)
+白ビールらしく飲みやすいビール。クラフトの瓶ビールの中では比較的安めで買いやすいのが嬉しいところ。
